@@ -5,3 +5,6 @@ With the help of practice modules and YouTube tutorials I was able to follow alo
 The map and enemies in game are placeholders, there are many enemies and objects in the game that are unused because of the preformance impact.
 
 To start the game run the main.py file.
+
+Here is a link to the YouTube video I followed: https://www.youtube.com/watch?v=QU1pPzEGrqw
+Here is a link to the game assets used: https://pixel-boy.itch.io/ninja-adventure-asset-pack
